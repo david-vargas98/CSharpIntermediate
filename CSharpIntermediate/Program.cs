@@ -1,4 +1,4 @@
-﻿namespace CSharpIntermediate
+﻿namespace Claasses
 {
     internal class Program
     {
